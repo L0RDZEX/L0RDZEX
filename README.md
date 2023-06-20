@@ -1,3 +1,9 @@
+<p align="center">
+  <a aria-label="MyLogo Zy4Code">
+    <img src="https://avatars.githubusercontent.com/u/84219159?v=4" width="120" />
+  </a>
+</p>
+
 - 👋 Hi, I’m @L0RDZEX
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
